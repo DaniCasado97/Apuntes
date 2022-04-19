@@ -1,0 +1,12 @@
+Mostrar el estado de branches - git status
+
+Añadir archivos - git add .
+
+Confirmar archivos a enviar - git commit -am "nombre commit"
+
+Mostrar informe - git log
+
+Añadir repositorio local remoto - git push origin
+					    git push --set-upstream http://direccion/userName/proyectName.git  
+
+Obtener deesde repositorio remoto - git pull origin master
